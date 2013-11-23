@@ -1,1 +1,23 @@
-["index.md"]
+[
+    "index.md",
+    "la-spec.md",
+    "en-resume.md",
+    [
+        "quelques-changements.md",
+        "disparition-de-with.md",
+        "plus-de-globale-accidentelle.md",
+        "lutilisation-de-this.md",
+        "lutilisation-de-this-suite.md",
+        "pas-de-doublons.md",
+        "eval.md",
+        "object-non-extensible.md"
+    ],
+    "les-bonnes-pratiques.md",
+    [
+        "comment-invoquer-le-mode-strict.md",
+        "invoquer-le-mode-strict-suite.md",
+        "invoquer-le-mode-strict-fin.md"
+    ],
+    "en-conclusion.md",
+    "merci.md"
+]

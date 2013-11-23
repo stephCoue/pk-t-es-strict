@@ -1,10 +1,5 @@
 
 # Pk t'es "strict"?
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+[@stephCoue](https://twitter.com/stephCoue) <br>
+UX-Scientist [@UXRepublic](https://twitter.com/UXRepublic)
