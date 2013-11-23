@@ -17,7 +17,7 @@ ECMAScript apporte un lot de changements à `eval()`; le plus significatif est q
 
 </pre>
 
-Toute variable ou fonction créée dans `eval()` <strong>reste</strong> dans `eval()`. Après, rien n'empêche d'assigner la valeur retour de `eval()`…
+Toute variable ou fonction crée dans `eval()` <strong>reste</strong> dans `eval()`. Après, rien n'empêche d'assigner la valeur retour de `eval()`…
 
 
 
