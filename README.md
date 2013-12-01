@@ -1,4 +1,4 @@
-#  Pk t'es "strict"?
+#  [Pk t'es "strict"?](http://steph.io/pk-t-es-strict/)
 #### [FranceJS.in(Toulouse)](http://francejs.org/conf2013.html)
 
 #### Description du lightning talk (5mins):
